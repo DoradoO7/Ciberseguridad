@@ -29,6 +29,9 @@ bandit8@bandit:~$
 | find | Nos permite buscar |
 |grep | print lines matching a pattern|
 		| wc | print newline, word, and byte counts for each file|
+		|uniq | filtra los repetidos
+		| c | cuenta |
+		
 		
 ## Referencias
 
