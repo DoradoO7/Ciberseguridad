@@ -1,0 +1,6 @@
+entra en la carpeta donde esta 
+git add .
+git commit -m "loqsea"
+git branch M main
+git push -u origin main
+y ya creo

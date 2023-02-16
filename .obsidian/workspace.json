@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos-bandit/Level 6 al 7.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos-bandit/Level 6 al 7.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos-bandit/Level 6 al 7.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos-bandit/Level 6 al 7.md"
+                "file": "README.md"
               }
             }
           }
@@ -293,15 +293,15 @@
   },
   "active": "9d80c49f8cd401f8",
   "lastOpenFiles": [
-    "Retos-bandit/Level 7 al 8.md",
+    "Retos-bandit/Level 0 al 1.md",
+    "README.md",
     "Retos-bandit/Level 6 al 7.md",
+    "Retos-bandit/Level 7 al 8.md",
     "Retos-bandit/Level 9 al 10.md",
     "Retos-bandit/Level 8 al 9.md",
     "Retos-bandit/Plantilla.md",
     "2023-02-14.md",
     "Retos-bandit/Level 5 al 6.md",
-    "Retos-bandit/Level 4  al 5.md",
-    "Retos-bandit/Level 3 al 4.md",
-    "Retos-bandit/Level 2 al 3.md"
+    "Retos-bandit/Level 4  al 5.md"
   ]
 }
