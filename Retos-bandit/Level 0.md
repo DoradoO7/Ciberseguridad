@@ -26,3 +26,4 @@ bandit0@bandit.labs.overthewire.org's password:
 ## Notas adicionales
 ls para alistar 
 ls -la listar archivos en forma extendida
+
