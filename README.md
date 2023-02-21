@@ -9,3 +9,6 @@ Luis Manuel Reveles Dorado
 - RETOS
 - Proximamente 
 - 
+## NOTAS
+Cyberchef git hub excelente 
+Netcat abrir puerto
