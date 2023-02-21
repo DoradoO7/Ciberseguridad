@@ -43,6 +43,7 @@ bandit15@bandit:~$ ^C
 bandit15@bandit:~$
 ```
 ## Notas adicionales
+nmap localhost pruba los primeros 1000 puertos
 Netcat ayuada para tener un host abierto
 ## Referencias
 -   [Secure Socket Layer/Transport Layer Security on Wikipedia](https://en.wikipedia.org/wiki/Secure_Socket_Layer)
