@@ -198,9 +198,105 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cd0c5cff39231d5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Insp3ct0r.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2e6223af921ba9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Insp3ct0r.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d58cbe6b3be8f49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/where are the robots.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6cce65dcaf53250d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/logon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f41ac1f98092ada0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/dont-use-client-side.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b728c4b1d37b31ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/where are the robots.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff1626cc7498062a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/dont-use-client-side.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "127d4869033c3b91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -266,7 +362,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Primer Parcial/2022/PW Crack 3.md",
+                "file": "PicoCTF/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +379,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Primer Parcial/2022/PW Crack 3.md",
+                "file": "PicoCTF/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +402,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Primer Parcial/2022/PW Crack 3.md"
+                "file": "PicoCTF/Untitled.md"
               }
             }
           }
@@ -327,11 +423,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0245c38871d1cea1",
+  "active": "127d4869033c3b91",
   "lastOpenFiles": [
+    "PicoCTF/Client-side-again.md",
+    "PicoCTF/dont-use-client-side.md",
+    "PicoCTF/Picobrowser.md",
+    "PicoCTF/Untitled.md",
+    "PicoCTF/where are the robots.md",
+    "PicoCTF/Insp3ct0r.md",
+    "Pasted image 20230309090930.png",
+    "PicoCTF/logon.md",
+    "README.md",
+    "PicoCTF",
+    "Untitled.md",
+    "Primer Parcial/2019/Lets Warm Up.md",
+    "Primer Parcial/2022/PW Crack 3.md",
     "Primer Parcial/2022/PW Crack 1.md",
     "Primer Parcial/2022/PW Crack 2.md",
-    "Primer Parcial/2022/PW Crack 3.md",
     "Primer Parcial/2022/Glitch Cat.md",
     "Primer Parcial/2022/fixme1.py.md",
     "Primer Parcial/2022/fixme2.py.md",
@@ -346,18 +454,8 @@
     "Primer Parcial/2021/Wave a flag.md",
     "Primer Parcial/2021/Tab, Tab, Attack.md",
     "Primer Parcial/2021/Obedient Cat.md",
-    "Clase de sabdos 04-03-23.md",
-    "Primer Parcial/2019/strings it.md",
-    "Primer Parcial/2019/First Grep.md",
-    "Primer Parcial/2019/Lets Warm Up.md",
     "Primer Parcial/2021",
     "Pasted image 20230226133447.png",
-    "Primer Parcial/2019/plumbing.md",
-    "Primer Parcial/2019/Warmed Up.md",
-    "Primer Parcial/2019/BASES.md",
-    "Primer Parcial/2019/2Warm.md",
-    "Primer Parcial/2019/Based.md",
-    "Primer Parcial/2019/what's a net cat.md",
     "Primer Parcial/2019",
     "Primer Parcial"
   ]
