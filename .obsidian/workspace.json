@@ -349,7 +349,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/JaWT Scratchpad.md",
+                "file": "Retos-bandit/Level 32 al 33.md",
                 "mode": "source",
                 "source": false
               }
@@ -422,7 +422,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/JaWT Scratchpad.md",
+                "file": "Retos-bandit/Level 32 al 33.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -439,7 +439,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/JaWT Scratchpad.md",
+                "file": "Retos-bandit/Level 32 al 33.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -462,7 +462,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/JaWT Scratchpad.md"
+                "file": "Retos-bandit/Level 32 al 33.md"
               }
             }
           }
@@ -485,13 +485,17 @@
   },
   "active": "98a6bc1519f4fbe0",
   "lastOpenFiles": [
-    "PicoCTF/Irish-Name-Repo 3.md",
+    "Retos-bandit/Level 31 al 32.md",
+    "Retos-bandit/Level 30 al 31.md",
+    "Retos-bandit/Level 29 al 30.md",
+    "Retos-bandit/Level 28 al 29.md",
+    "Retos-bandit/Level 32 al 33.md",
     "PicoCTF/JaWT Scratchpad.md",
+    "PicoCTF/Irish-Name-Repo 3.md",
     "PicoCTF/Irish-Name-Repo 2.md",
     "PicoCTF/Irish-Name-Repo 1.md",
     "PicoCTF/where are the robots.md",
     "Retos-bandit/Level 27 al 28.md",
-    "Retos-bandit/Level 28 al 29.md",
     "Retos-bandit/Plantilla.md",
     "PicoCTF/Client-side-again.md",
     "PicoCTF/dont-use-client-side.md",
@@ -509,10 +513,6 @@
     "Primer Parcial/2022/Glitch Cat.md",
     "Primer Parcial/2022/fixme1.py.md",
     "Primer Parcial/2022/fixme2.py.md",
-    "Primer Parcial/2022/convertme.py.md",
-    "Primer Parcial/2022/Codebook.md",
-    "Primer Parcial/2022/runme.py.md",
-    "Primer Parcial/2021/Nice netcat....md",
     "Primer Parcial/2022",
     "Primer Parcial/2021",
     "Pasted image 20230226133447.png",
