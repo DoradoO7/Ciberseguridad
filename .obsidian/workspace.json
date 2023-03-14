@@ -289,14 +289,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Untitled.md",
+                "file": "Retos-bandit/Level 27 al 28.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8381fc3d3135976",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/where are the robots.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61ffff85de43940b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Irish-Name-Repo 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9220484a498c881a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Irish-Name-Repo 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a20c6d05328b8a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Irish-Name-Repo 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98a6bc1519f4fbe0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/JaWT Scratchpad.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 23
+        "currentTab": 28
       }
     ],
     "direction": "vertical"
@@ -362,7 +422,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Untitled.md",
+                "file": "PicoCTF/JaWT Scratchpad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -379,7 +439,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Untitled.md",
+                "file": "PicoCTF/JaWT Scratchpad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -402,7 +462,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/Untitled.md"
+                "file": "PicoCTF/JaWT Scratchpad.md"
               }
             }
           }
@@ -423,13 +483,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "127d4869033c3b91",
+  "active": "98a6bc1519f4fbe0",
   "lastOpenFiles": [
+    "PicoCTF/Irish-Name-Repo 3.md",
+    "PicoCTF/JaWT Scratchpad.md",
+    "PicoCTF/Irish-Name-Repo 2.md",
+    "PicoCTF/Irish-Name-Repo 1.md",
+    "PicoCTF/where are the robots.md",
+    "Retos-bandit/Level 27 al 28.md",
+    "Retos-bandit/Level 28 al 29.md",
+    "Retos-bandit/Plantilla.md",
     "PicoCTF/Client-side-again.md",
     "PicoCTF/dont-use-client-side.md",
     "PicoCTF/Picobrowser.md",
-    "PicoCTF/Untitled.md",
-    "PicoCTF/where are the robots.md",
     "PicoCTF/Insp3ct0r.md",
     "Pasted image 20230309090930.png",
     "PicoCTF/logon.md",
@@ -447,13 +513,7 @@
     "Primer Parcial/2022/Codebook.md",
     "Primer Parcial/2022/runme.py.md",
     "Primer Parcial/2021/Nice netcat....md",
-    "Primer Parcial/Untitled.md",
     "Primer Parcial/2022",
-    "Primer Parcial/2021/Magikarp Ground Mission.md",
-    "Primer Parcial/2021/Static ain't always noise.md",
-    "Primer Parcial/2021/Wave a flag.md",
-    "Primer Parcial/2021/Tab, Tab, Attack.md",
-    "Primer Parcial/2021/Obedient Cat.md",
     "Primer Parcial/2021",
     "Pasted image 20230226133447.png",
     "Primer Parcial/2019",
