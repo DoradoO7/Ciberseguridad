@@ -354,9 +354,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "89a645eaeac869a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/GET aHEAD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ef0e0d21b77ce73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Cookies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4c9a687e7b9763a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Scavenger Hunt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 28
+        "currentTab": 31
       }
     ],
     "direction": "vertical"
@@ -422,7 +458,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos-bandit/Level 32 al 33.md",
+                "file": "PicoCTF/Scavenger Hunt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -439,7 +475,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos-bandit/Level 32 al 33.md",
+                "file": "PicoCTF/Scavenger Hunt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -462,7 +498,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos-bandit/Level 32 al 33.md"
+                "file": "PicoCTF/Scavenger Hunt.md"
               }
             }
           }
@@ -483,17 +519,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98a6bc1519f4fbe0",
+  "active": "c4c9a687e7b9763a",
   "lastOpenFiles": [
+    "PicoCTF/GET aHEAD.md",
+    "PicoCTF/Scavenger Hunt.md",
+    "PicoCTF/Cookies.md",
+    "PicoCTF/Irish-Name-Repo 1.md",
+    "Retos-bandit/Level 32 al 33.md",
     "Retos-bandit/Level 31 al 32.md",
     "Retos-bandit/Level 30 al 31.md",
     "Retos-bandit/Level 29 al 30.md",
     "Retos-bandit/Level 28 al 29.md",
-    "Retos-bandit/Level 32 al 33.md",
     "PicoCTF/JaWT Scratchpad.md",
     "PicoCTF/Irish-Name-Repo 3.md",
     "PicoCTF/Irish-Name-Repo 2.md",
-    "PicoCTF/Irish-Name-Repo 1.md",
     "PicoCTF/where are the robots.md",
     "Retos-bandit/Level 27 al 28.md",
     "Retos-bandit/Plantilla.md",
@@ -510,9 +549,6 @@
     "Primer Parcial/2022/PW Crack 3.md",
     "Primer Parcial/2022/PW Crack 1.md",
     "Primer Parcial/2022/PW Crack 2.md",
-    "Primer Parcial/2022/Glitch Cat.md",
-    "Primer Parcial/2022/fixme1.py.md",
-    "Primer Parcial/2022/fixme2.py.md",
     "Primer Parcial/2022",
     "Primer Parcial/2021",
     "Pasted image 20230226133447.png",
