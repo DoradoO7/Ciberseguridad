@@ -450,9 +450,69 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d677184db5e33dcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Liked1000.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "50abcfa97bdbdcd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/shark on wire 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2304274340515520",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/WhitePages.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da773bc4eded787b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/m00nwalk.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88537a4f74468d43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/c0rrupt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 36
+        "currentTab": 41
       }
     ],
     "direction": "vertical"
@@ -518,7 +578,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/What Lies Within.md",
+                "file": "PicoCTF/c0rrupt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -535,7 +595,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/What Lies Within.md",
+                "file": "PicoCTF/c0rrupt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -558,7 +618,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/What Lies Within.md"
+                "file": "PicoCTF/c0rrupt.md"
               }
             }
           }
@@ -579,35 +639,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f59711e29849338",
+  "active": "88537a4f74468d43",
   "lastOpenFiles": [
-    "PicoCTF/extensions.md",
-    "PicoCTF/What Lies Within.md",
-    "PicoCTF/So Meta.md",
-    "PicoCTF/shark on wire 1.md",
-    "PicoCTF/Glory of the Garden.md",
+    "PicoCTF/GET aHEAD.md",
+    "PicoCTF/c0rrupt.md",
+    "PicoCTF/m00nwalk.md",
+    "PicoCTF/shark on wire 2.md",
+    "PicoCTF/WhitePages.md",
+    "PicoCTF/Irish-Name-Repo 1.md",
     "PicoCTF/Irish-Name-Repo 3.md",
+    "PicoCTF/JaWT Scratchpad.md",
+    "PicoCTF/Picobrowser.md",
+    "PicoCTF/shark on wire 1.md",
+    "PicoCTF/Liked1000.md",
+    "PicoCTF/So Meta.md",
+    "PicoCTF/What Lies Within.md",
+    "PicoCTF/extensions.md",
+    "PicoCTF/Glory of the Garden.md",
     "PicoCTF/Insp3ct0r.md",
     "PicoCTF/Scavenger Hunt.md",
-    "PicoCTF/GET aHEAD.md",
     "PicoCTF/Cookies.md",
-    "PicoCTF/Irish-Name-Repo 1.md",
     "Retos-bandit/Level 32 al 33.md",
     "Retos-bandit/Level 31 al 32.md",
     "Retos-bandit/Level 30 al 31.md",
     "Retos-bandit/Level 29 al 30.md",
     "Retos-bandit/Level 28 al 29.md",
-    "PicoCTF/JaWT Scratchpad.md",
     "PicoCTF/Irish-Name-Repo 2.md",
     "PicoCTF/where are the robots.md",
     "Retos-bandit/Level 27 al 28.md",
-    "Retos-bandit/Plantilla.md",
-    "PicoCTF/Client-side-again.md",
-    "PicoCTF/dont-use-client-side.md",
-    "PicoCTF/Picobrowser.md",
     "Pasted image 20230309090930.png",
-    "PicoCTF/logon.md",
-    "README.md",
     "PicoCTF",
     "Primer Parcial/2022",
     "Primer Parcial/2021",
