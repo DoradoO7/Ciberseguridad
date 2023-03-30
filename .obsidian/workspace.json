@@ -510,9 +510,65 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7b06061987a67554",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/WebNet0.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89a9f91909547473",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/WebNet1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87cc37e0de8611a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Matryoshka doll.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe026a474da6719d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/tunn3l_v1s10n.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f509e21603ffbc64",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 41
+        "currentTab": 46
       }
     ],
     "direction": "vertical"
@@ -578,7 +634,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/c0rrupt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -595,7 +650,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/c0rrupt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -617,9 +671,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PicoCTF/c0rrupt.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -639,12 +691,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "88537a4f74468d43",
+  "active": "f509e21603ffbc64",
   "lastOpenFiles": [
-    "PicoCTF/GET aHEAD.md",
-    "PicoCTF/c0rrupt.md",
-    "PicoCTF/m00nwalk.md",
+    "PicoCTF/MacroHard WeakEdge.md",
+    "PicoCTF/Matryoshka doll.md",
+    "PicoCTF/tunn3l_v1s10n.md",
+    "PicoCTF/logon.md",
+    "PicoCTF/WebNet1.md",
+    "PicoCTF/What Lies Within.md",
+    "PicoCTF/WebNet0.md",
     "PicoCTF/shark on wire 2.md",
+    "PicoCTF/c0rrupt.md",
+    "PicoCTF/GET aHEAD.md",
+    "PicoCTF/m00nwalk.md",
     "PicoCTF/WhitePages.md",
     "PicoCTF/Irish-Name-Repo 1.md",
     "PicoCTF/Irish-Name-Repo 3.md",
@@ -653,7 +712,6 @@
     "PicoCTF/shark on wire 1.md",
     "PicoCTF/Liked1000.md",
     "PicoCTF/So Meta.md",
-    "PicoCTF/What Lies Within.md",
     "PicoCTF/extensions.md",
     "PicoCTF/Glory of the Garden.md",
     "PicoCTF/Insp3ct0r.md",
@@ -661,12 +719,6 @@
     "PicoCTF/Cookies.md",
     "Retos-bandit/Level 32 al 33.md",
     "Retos-bandit/Level 31 al 32.md",
-    "Retos-bandit/Level 30 al 31.md",
-    "Retos-bandit/Level 29 al 30.md",
-    "Retos-bandit/Level 28 al 29.md",
-    "PicoCTF/Irish-Name-Repo 2.md",
-    "PicoCTF/where are the robots.md",
-    "Retos-bandit/Level 27 al 28.md",
     "Pasted image 20230309090930.png",
     "PicoCTF",
     "Primer Parcial/2022",
