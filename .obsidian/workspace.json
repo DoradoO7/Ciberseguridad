@@ -566,9 +566,93 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "1e94a3a845232b02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/The Numbers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35cfee2f5fbbdae7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Easy 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57323edc53b48537",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/13.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3cfeacbe2c22e00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Caesar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3b6f0a0680ebf22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/la cifra de.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34b7cf820e2a3e62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Tapping.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe6700c84232dcbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/waves over lambda.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 46
+        "currentTab": 53
       }
     ],
     "direction": "vertical"
@@ -634,6 +718,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PicoCTF/waves over lambda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -650,6 +735,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PicoCTF/waves over lambda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -671,7 +757,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PicoCTF/waves over lambda.md"
+              }
             }
           }
         ]
@@ -691,8 +779,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f509e21603ffbc64",
+  "active": "fe6700c84232dcbd",
   "lastOpenFiles": [
+    "PicoCTF/13.md",
+    "PicoCTF/waves over lambda.md",
+    "PicoCTF/Tapping.md",
+    "PicoCTF/la cifra de.md",
+    "PicoCTF/Easy 1.md",
+    "PicoCTF/Liked1000.md",
+    "PicoCTF/Caesar.md",
+    "PicoCTF/c0rrupt.md",
+    "PicoCTF/extensions.md",
+    "PicoCTF/The Numbers.md",
+    "PicoCTF/shark on wire 2.md",
+    "PicoCTF/So Meta.md",
     "PicoCTF/MacroHard WeakEdge.md",
     "PicoCTF/Matryoshka doll.md",
     "PicoCTF/tunn3l_v1s10n.md",
@@ -700,8 +800,6 @@
     "PicoCTF/WebNet1.md",
     "PicoCTF/What Lies Within.md",
     "PicoCTF/WebNet0.md",
-    "PicoCTF/shark on wire 2.md",
-    "PicoCTF/c0rrupt.md",
     "PicoCTF/GET aHEAD.md",
     "PicoCTF/m00nwalk.md",
     "PicoCTF/WhitePages.md",
@@ -709,16 +807,6 @@
     "PicoCTF/Irish-Name-Repo 3.md",
     "PicoCTF/JaWT Scratchpad.md",
     "PicoCTF/Picobrowser.md",
-    "PicoCTF/shark on wire 1.md",
-    "PicoCTF/Liked1000.md",
-    "PicoCTF/So Meta.md",
-    "PicoCTF/extensions.md",
-    "PicoCTF/Glory of the Garden.md",
-    "PicoCTF/Insp3ct0r.md",
-    "PicoCTF/Scavenger Hunt.md",
-    "PicoCTF/Cookies.md",
-    "Retos-bandit/Level 32 al 33.md",
-    "Retos-bandit/Level 31 al 32.md",
     "Pasted image 20230309090930.png",
     "PicoCTF",
     "Primer Parcial/2022",
