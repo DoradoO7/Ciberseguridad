@@ -8,558 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1b4a81c2b6068e96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Primer Parcial/2019/strings it.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "090d8bf885c865ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Primer Parcial/2021/Obedient Cat.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f67bd71b41ee5487",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Primer Parcial/2021/Wave a flag.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e2f96ca1bb26c9d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Primer Parcial/2021/Nice netcat....md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "24d588c7e85036b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Primer Parcial/2021/Static ain't always noise.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb6e51898c30c1a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Primer Parcial/2021/Tab, Tab, Attack.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a2257a8ec839776",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Primer Parcial/2021/Magikarp Ground Mission.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "302984dcff66ebe6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Primer Parcial/2022/runme.py.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71328810ce895798",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Primer Parcial/2022/convertme.py.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e73d2ffd425d288",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Primer Parcial/2022/Codebook.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3826e830bb6df5a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Primer Parcial/2022/fixme1.py.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc370472814748ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Primer Parcial/2022/fixme2.py.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a7b89fcf0497b6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Primer Parcial/2022/Glitch Cat.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "41716a2ccc27d4ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Primer Parcial/2022/PW Crack 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4828ed56da29b561",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Primer Parcial/2022/PW Crack 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0245c38871d1cea1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Primer Parcial/2022/PW Crack 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd0c5cff39231d5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/Insp3ct0r.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b2e6223af921ba9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/Insp3ct0r.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d58cbe6b3be8f49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/where are the robots.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6cce65dcaf53250d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/logon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f41ac1f98092ada0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/dont-use-client-side.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b728c4b1d37b31ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/where are the robots.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff1626cc7498062a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/dont-use-client-side.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "127d4869033c3b91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Retos-bandit/Level 27 al 28.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e8381fc3d3135976",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/where are the robots.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61ffff85de43940b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/Irish-Name-Repo 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9220484a498c881a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/Irish-Name-Repo 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a20c6d05328b8a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/Irish-Name-Repo 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98a6bc1519f4fbe0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Retos-bandit/Level 32 al 33.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89a645eaeac869a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/GET aHEAD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ef0e0d21b77ce73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/Cookies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4c9a687e7b9763a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/Scavenger Hunt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c8bfb665167e348",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/Glory of the Garden.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3ceab608e4cb12d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/So Meta.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f11dc736d5c010fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/shark on wire 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5535ff78bf11b629",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/extensions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f59711e29849338",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/What Lies Within.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d677184db5e33dcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/Liked1000.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50abcfa97bdbdcd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/shark on wire 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2304274340515520",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/WhitePages.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da773bc4eded787b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/m00nwalk.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "88537a4f74468d43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/c0rrupt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b06061987a67554",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/WebNet0.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89a9f91909547473",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/WebNet1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87cc37e0de8611a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/Matryoshka doll.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe026a474da6719d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/tunn3l_v1s10n.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f509e21603ffbc64",
             "type": "leaf",
             "state": {
@@ -573,126 +21,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/The Numbers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35cfee2f5fbbdae7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/Easy 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57323edc53b48537",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/13.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3cfeacbe2c22e00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/Caesar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3b6f0a0680ebf22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/la cifra de.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34b7cf820e2a3e62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/Tapping.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe6700c84232dcbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/waves over lambda.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06f551ffa4931bb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Segundo Parcial/Includes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2855c72450fb6234",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Segundo Parcial/Inspect HTML.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d6544611a2353b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Segundo Parcial/Local Authority.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d1395bfeaae8930b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "PicoCTF/b00tl3gRSA2.md",
                 "mode": "source",
                 "source": false
@@ -700,31 +28,67 @@
             }
           },
           {
-            "id": "01ca35e3948c8561",
+            "id": "9f572f2b611ab407",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/miniRSA.md",
+                "file": "PicoCTF/Mind your Ps and Qs.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "36f183f143ce458c",
+            "id": "1a1962ce73abf392",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/rsa-pop-quiz.md",
+                "file": "PicoCTF/Pixelated.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27bba5823f0b3e67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF_2023/HideToSee.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46435389539f2c02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF_2023/ReadMyCert.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29c72f25cd42e97c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/ReadMyCert.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 59
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -790,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/rsa-pop-quiz.md",
+                "file": "PicoCTF/ReadMyCert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -807,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/rsa-pop-quiz.md",
+                "file": "PicoCTF/ReadMyCert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -830,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/rsa-pop-quiz.md"
+                "file": "PicoCTF/ReadMyCert.md"
               }
             }
           }
@@ -851,35 +215,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36f183f143ce458c",
+  "active": "29c72f25cd42e97c",
   "lastOpenFiles": [
-    "PicoCTF/miniRSA.md",
+    "PicoCTF_2023/ReadMyCert.md",
+    "PicoCTF/ReadMyCert.md",
+    "PicoCTF/HideToSee.md",
+    "PicoCTF_2023/HideToSee.md",
+    "PicoCTF/13.md",
+    "PicoCTF/Basic-mod1.md",
+    "PicoCTF/c0rrupt.md",
+    "PicoCTF/Pixelated.md",
+    "PicoCTF/waves over lambda.md",
+    "PicoCTF/Mind your Ps and Qs.md",
+    "PicoCTF/Matryoshka doll.md",
+    "PicoCTF/b00tl3gRSA2.md",
+    "PicoCTF/The Numbers.md",
+    "PicoCTF/Caesar.md",
+    "Primer Parcial/2019/strings it.md",
+    "PicoCTF/WebNet0.md",
+    "Primer Parcial/2021/Obedient Cat.md",
+    "Primer Parcial/2021/Static ain't always noise.md",
     "PicoCTF/rsa-pop-quiz.md",
+    "PicoCTF/miniRSA.md",
     "PicoCTF/extensions.md",
     "PicoCTF/GET aHEAD.md",
     "PicoCTF/Easy 1.md",
     "PicoCTF/Cookies.md",
-    "PicoCTF/13.md",
-    "PicoCTF/b00tl3gRSA2.md",
     "Segundo Parcial/Local Authority.md",
     "Segundo Parcial/Inspect HTML.md",
-    "Segundo Parcial/Includes.md",
-    "Primer Parcial/2019/plumbing.md",
-    "Primer Parcial/2019/Based.md",
-    "PicoCTF/waves over lambda.md",
     "Segundo Parcial",
-    "PicoCTF/Tapping.md",
-    "PicoCTF/la cifra de.md",
-    "PicoCTF/Liked1000.md",
-    "PicoCTF/Caesar.md",
-    "PicoCTF/c0rrupt.md",
-    "PicoCTF/The Numbers.md",
-    "PicoCTF/shark on wire 2.md",
-    "PicoCTF/So Meta.md",
-    "PicoCTF/MacroHard WeakEdge.md",
-    "PicoCTF/Matryoshka doll.md",
-    "PicoCTF/tunn3l_v1s10n.md",
-    "PicoCTF/logon.md",
     "Pasted image 20230309090930.png",
     "PicoCTF",
     "Primer Parcial/2022",
