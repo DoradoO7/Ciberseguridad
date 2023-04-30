@@ -81,14 +81,170 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/ReadMyCert.md",
+                "file": "Segundo Parcial/Local Authority.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef754e90652cb85d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo Parcial/Search Source.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d01f4371afe4d02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo Parcial/Forbidden Paths.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "43aefad3ae5a946e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo Parcial/Power Cookie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c06ed1189a66162e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo Parcial/Roboto Sans.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9251b3b0443513fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo Parcial/Secrets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b728570b50b4a822",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo Parcial/SQL Direct.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78336ea8177be53e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo Parcial/Information.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f10eb06ab4a6ea1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo Parcial/Wireshark doo dooo do doo....md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f6823606d0506a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo Parcial/Enhance!!.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e39d04411117d6af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo Parcial/Lookey here.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59a43c0674cfe8fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo Parcial/Packets Primer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb9d3472a33d819e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo Parcial/Redaction gone wrong.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e6d09d9f21d71ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo Parcial/St3g0.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -154,7 +310,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/ReadMyCert.md",
+                "file": "Segundo Parcial/St3g0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +327,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/ReadMyCert.md",
+                "file": "Segundo Parcial/St3g0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +350,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/ReadMyCert.md"
+                "file": "Segundo Parcial/St3g0.md"
               }
             }
           }
@@ -215,10 +371,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "29c72f25cd42e97c",
+  "active": "9e6d09d9f21d71ac",
   "lastOpenFiles": [
-    "PicoCTF_2023/ReadMyCert.md",
+    "Pasted image 20230429211643.png",
+    "Segundo Parcial/Includes.md",
+    "Segundo Parcial/St3g0.md",
+    "Segundo Parcial/Redaction gone wrong.md",
+    "Segundo Parcial/Roboto Sans.md",
+    "Segundo Parcial/Search Source.md",
+    "Segundo Parcial/Inspect HTML.md",
+    "Segundo Parcial/Packets Primer.md",
+    "Segundo Parcial/Lookey here.md",
+    "Segundo Parcial/Enhance!!.md",
+    "Pasted image 20230429210025.png",
+    "Segundo Parcial/Forbidden Paths.md",
+    "Segundo Parcial/Wireshark doo dooo do doo....md",
+    "Segundo Parcial/SQL Direct.md",
+    "Segundo Parcial/Information.md",
+    "Segundo Parcial/Secrets.md",
+    "Segundo Parcial/Local Authority.md",
+    "Segundo Parcial/Power Cookie.md",
     "PicoCTF/ReadMyCert.md",
+    "PicoCTF_2023/ReadMyCert.md",
     "PicoCTF/HideToSee.md",
     "PicoCTF_2023/HideToSee.md",
     "PicoCTF/13.md",
@@ -226,23 +400,6 @@
     "PicoCTF/c0rrupt.md",
     "PicoCTF/Pixelated.md",
     "PicoCTF/waves over lambda.md",
-    "PicoCTF/Mind your Ps and Qs.md",
-    "PicoCTF/Matryoshka doll.md",
-    "PicoCTF/b00tl3gRSA2.md",
-    "PicoCTF/The Numbers.md",
-    "PicoCTF/Caesar.md",
-    "Primer Parcial/2019/strings it.md",
-    "PicoCTF/WebNet0.md",
-    "Primer Parcial/2021/Obedient Cat.md",
-    "Primer Parcial/2021/Static ain't always noise.md",
-    "PicoCTF/rsa-pop-quiz.md",
-    "PicoCTF/miniRSA.md",
-    "PicoCTF/extensions.md",
-    "PicoCTF/GET aHEAD.md",
-    "PicoCTF/Easy 1.md",
-    "PicoCTF/Cookies.md",
-    "Segundo Parcial/Local Authority.md",
-    "Segundo Parcial/Inspect HTML.md",
     "Segundo Parcial",
     "Pasted image 20230309090930.png",
     "PicoCTF",

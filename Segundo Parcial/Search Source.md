@@ -3,6 +3,6 @@ Can you get the flag? Go to this [website](http://saturn.picoctf.net:55983/) and
 
 ## Solucion
 Este tambien es el website usaremos el dee inspecionar pagina luego al ver e
-codigo html sera en login luego secure y ahi nos dara los datos para ingresar
-picoCTF{j5_15_7r4n5p4r3n7_a8788e61}
+codigo html sera styles luego con la herramienta del buscador solo buscaremos pico
+picoCTF{1nsp3ti0n_0f_w3bpag3s_ec95fa49}
 ## Referencias
