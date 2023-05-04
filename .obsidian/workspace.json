@@ -290,9 +290,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b155fd853fcbc19d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/asm1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68c84f6b93a0b7ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/asm2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9c3e782b5e28b90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/asm2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e35845afb52c61a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/asm2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 23
+        "currentTab": 27
       }
     ],
     "direction": "vertical"
@@ -358,7 +406,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/vault-door-1.md",
+                "file": "PicoCTF/asm2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -375,7 +423,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/vault-door-1.md",
+                "file": "PicoCTF/asm2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -398,7 +446,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/vault-door-1.md"
+                "file": "PicoCTF/asm2.md"
               }
             }
           }
@@ -419,15 +467,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9906aac883d5abba",
+  "active": "e35845afb52c61a5",
   "lastOpenFiles": [
+    "PicoCTF/asm3.md",
+    "PicoCTF/asm2.md",
+    "PicoCTF/asm1.md",
+    "asm3.md",
+    "PicoCTF/b00tl3gRSA2.md",
+    "PicoCTF/Basic-mod1.md",
+    "PicoCTF/vault-door-1.md",
     "PicoCTF/vault-door-3.md",
     "PicoCTF/vault-door-4.md",
-    "PicoCTF/vault-door-1.md",
     "Pasted image 20230502101850.png",
     "PicoCTF/vault-door-training.md",
     "PicoCTF/waves over lambda.md",
-    "PicoCTF/b00tl3gRSA2.md",
     "Segundo Parcial/St3g0.md",
     "Pasted image 20230429211643.png",
     "Segundo Parcial/Includes.md",
@@ -445,11 +498,6 @@
     "Segundo Parcial/Information.md",
     "Segundo Parcial/Secrets.md",
     "Segundo Parcial/Local Authority.md",
-    "Segundo Parcial/Power Cookie.md",
-    "PicoCTF/ReadMyCert.md",
-    "PicoCTF_2023/ReadMyCert.md",
-    "PicoCTF/HideToSee.md",
-    "PicoCTF_2023/HideToSee.md",
     "Segundo Parcial",
     "Pasted image 20230309090930.png",
     "PicoCTF",
