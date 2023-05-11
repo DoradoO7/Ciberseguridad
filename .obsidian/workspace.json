@@ -338,9 +338,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "56ef28164110c80f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/buffer overflow 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 27
+        "currentTab": 28
       }
     ],
     "direction": "vertical"
@@ -385,6 +397,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "02f3791ee2c964f3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -406,7 +426,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/asm2.md",
+                "file": "PicoCTF/buffer overflow 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -423,7 +443,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/asm2.md",
+                "file": "PicoCTF/buffer overflow 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -446,7 +466,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/asm2.md"
+                "file": "PicoCTF/buffer overflow 1.md"
               }
             }
           }
@@ -467,14 +487,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e35845afb52c61a5",
+  "active": "56ef28164110c80f",
   "lastOpenFiles": [
+    "PicoCTF/buffer overflow 0.md",
+    "PicoCTF/buffer overflow 1.md",
+    "PicoCTF/c0rrupt.md",
+    "PicoCTF/Caesar.md",
+    "PicoCTF/Basic-mod1.md",
+    "PicoCTF/basic-file-exploit.md",
+    "PicoCTF/b00tl3gRSA2.md",
+    "PicoCTF/Safe Opener 2.md",
     "PicoCTF/asm3.md",
+    "PicoCTF/rsa-pop-quiz.md",
+    "PicoCTF/reverse_cipher.md",
+    "PicoCTF/ReadMyCert.md",
+    "PicoCTF/GDB Test Drive.md",
+    "PicoCTF/extensions.md",
+    "PicoCTF/Need For Speed.md",
+    "PicoCTF/miniRSA.md",
+    "PicoCTF/Picobrowser.md",
     "PicoCTF/asm2.md",
     "PicoCTF/asm1.md",
     "asm3.md",
-    "PicoCTF/b00tl3gRSA2.md",
-    "PicoCTF/Basic-mod1.md",
     "PicoCTF/vault-door-1.md",
     "PicoCTF/vault-door-3.md",
     "PicoCTF/vault-door-4.md",
@@ -483,21 +517,7 @@
     "PicoCTF/waves over lambda.md",
     "Segundo Parcial/St3g0.md",
     "Pasted image 20230429211643.png",
-    "Segundo Parcial/Includes.md",
-    "Segundo Parcial/Redaction gone wrong.md",
-    "Segundo Parcial/Roboto Sans.md",
-    "Segundo Parcial/Search Source.md",
-    "Segundo Parcial/Inspect HTML.md",
-    "Segundo Parcial/Packets Primer.md",
-    "Segundo Parcial/Lookey here.md",
-    "Segundo Parcial/Enhance!!.md",
     "Pasted image 20230429210025.png",
-    "Segundo Parcial/Forbidden Paths.md",
-    "Segundo Parcial/Wireshark doo dooo do doo....md",
-    "Segundo Parcial/SQL Direct.md",
-    "Segundo Parcial/Information.md",
-    "Segundo Parcial/Secrets.md",
-    "Segundo Parcial/Local Authority.md",
     "Segundo Parcial",
     "Pasted image 20230309090930.png",
     "PicoCTF",
