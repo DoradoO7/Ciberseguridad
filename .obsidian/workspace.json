@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0561f7297c802537",
+        "id": "5717763f3744de4d",
         "type": "tabs",
         "children": [
           {
-            "id": "3c214dd3192ecbf6",
+            "id": "cfbfda693df84a81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tercer Parcial/Mr-Worldwide.md",
+                "file": "PicoCTF/Stonks.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tercer Parcial/Mr-Worldwide.md",
+                "file": "PicoCTF/Stonks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tercer Parcial/Mr-Worldwide.md",
+                "file": "PicoCTF/Stonks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tercer Parcial/Mr-Worldwide.md"
+                "file": "PicoCTF/Stonks.md"
               }
             }
           }
@@ -154,35 +154,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c214dd3192ecbf6",
+  "active": "cfbfda693df84a81",
   "lastOpenFiles": [
+    "PicoCTF/basic-file-exploit.md",
+    "PicoCTF/Stonks.md",
+    "PicoCTF/Flag leak.md",
+    "Retos-bandit/Level 2 al 3.md",
+    "PicoCTF_2023/ReadMyCert.md",
+    "PicoCTF_2023/repetitions.md",
+    "PicoCTF_2023/Reverse.md",
+    "PicoCTF_2023/Rules2023.md",
+    "PicoCTF/WebNet1.md",
+    "PicoCTF/What Lies Within.md",
+    "PicoCTF/WhitePages.md",
+    "PicoCTF/vault-door-1.md",
+    "PicoCTF/vault-door-4.md",
+    "PicoCTF/vault-door-3.md",
+    "PicoCTF/tunn3l_v1s10n.md",
+    "PicoCTF/shark on wire 1.md",
+    "PicoCTF/Pixelated.md",
+    "PicoCTF/ReadMyCert.md",
+    "PicoCTF/la cifra de.md",
+    "PicoCTF/Irish-Name-Repo 3.md",
+    "PicoCTF/GET aHEAD.md",
+    "PicoCTF/Cookies.md",
+    "PicoCTF/asm1.md",
+    "Tercer Parcial/Mr-Worldwide.md",
     "Tercer Parcial/GDB baby step 2.md",
     "Tercer Parcial/GDB baby step 1.md",
-    "Tercer Parcial/Bit-O-Asm-3.md",
-    "Tercer Parcial/Bit-O-Asm-2.md",
-    "Tercer Parcial/ASCII FTW.md",
-    "Tercer Parcial/Local Target.md",
-    "Tercer Parcial/SRA.md",
-    "Tercer Parcial/Picker IV.md",
-    "Tercer Parcial/Transposition-trial.md",
-    "Tercer Parcial/Two-sum.md",
-    "Tercer Parcial/Vigenere.md",
-    "Tercer Parcial/Mr-Worldwide.md",
-    "Tercer Parcial/Flags.md",
-    "Tercer Parcial/Clutter-overflow.md",
-    "Tercer Parcial/Bit-O-Asm-4.md",
-    "Tercer Parcial/Bit-O-Asm-1.md",
     "Tercer Parcial/Tercer Parcial.rar",
-    "PicoCTF/buffer overflow 1.md",
-    "PicoCTF/asm2.md",
-    "PicoCTF/asm1.md",
-    "PicoCTF/vault-door-1.md",
-    "PicoCTF/vault-door-3.md",
-    "PicoCTF/vault-door-training.md",
-    "Segundo Parcial/St3g0.md",
-    "Segundo Parcial/Redaction gone wrong.md",
-    "Segundo Parcial/Packets Primer.md",
-    "Segundo Parcial/Lookey here.md",
     "Pasted image 20230502101850.png",
     "Pasted image 20230429211643.png",
     "Pasted image 20230429210025.png",
